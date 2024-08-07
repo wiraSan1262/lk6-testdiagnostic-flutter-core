@@ -1,0 +1,61 @@
+{
+  "helloWorld": "Hello World!",
+  "errorTitle1200": "You have reached maximum retry",
+  "errorMessage1200": "If you still want to retry, you can do it by re-installing the Master Device Inspector App",
+
+  "errorTitle1201": "Invalid status",
+  "errorMessage1201": "Your test status is invalid. Contact our Customer Support for more information.",
+
+  "errorTitle1202": "Device is not eligible for trade-in",
+  "errorMessage1202": "This phone has been traded-in/sold before. You may retry after %s1 days.",
+
+  "errorTitle1203": "Data is invalid",
+  "errorMessage1203": "If the issue keeps happening, contact our Customer Support.",
+
+  "errorTitle1204": "Potential fraud",
+  "errorMessage1204": "This unit not sold yet, or the model doesn’t match with the IMEI.",
+
+  "errorTitle1205": "Test is expired",
+  "errorMessage1205": "Your previous test is expired. You may retry to trade-in/sell your device by reinstalling the app.",
+
+  "errorTitle1206": "App is outdated",
+  "errorMessage1206": "Please update the app before you can continue the test.",
+
+  "errorTitle1207": "Unsupported phone model",
+  "errorMessage1207": "We can’t accept this phone model at this point of time.",
+
+  "defaultError": "Fail to fetch data. Please check your internet connection and try again",
+
+  "deviceInspectorRemark": "Only for testing from Master Device Inspector app",
+  "startDiagnostic" : "Start Diagnostic Test",
+
+  "agreementText1" : "Users of the trade-in feature must agree to ",
+  "agreementText2" : "Terms and Conditions of Application Use",
+
+  "deviceInspector": "Device Inspector",
+  "howToTradeIn": "How to trade-in?",
+  "testOldPhoneCondition": "Test condition of your ",
+  "yourOldPhone": "old phone",
+  "chooseStore": "Choose a store ",
+  "whereToBuyPhone": "where to buy a phone",
+  "buyNewPhoneWith": "Buy a new phone with ",
+  "cheaperPrice": "a cheaper price!",
+  "continueFunctionTest": "Continue Function Test",
+
+  "visibleRemark": "\n\n\nCapture This page and make sure the unique code is clearly visible",
+  "keepPhotoOfUniqueCode": "Please keep the photo of the unique code even though it changes during the session\n\n",
+  "scanQr": "Scan Qr",
+  "showPageToOfficer": "Show this page to the store officer to take a photo of your phone for condition assessment",
+  "next": "Next",
+  "yourPhoneIs": "Your phone is",
+
+  "consumerComplaintService": "Consumer complaint service",
+  "ditjenPKTN": "Directorate General of Consumer Protection and Trade Order of the Ministry of Trade of the Republic of Indonesia (Ditjen PKTN)",
+  "whatsappDitjenPKTN": "Whatsapp Ditjen PKTN: ",
+  "whatsappNumber": "0853-1111-1010",
+
+  "sessionIdCopied": "session id copied",
+  "existingTestFoundMessage": "Do you want to continue with existing test?",
+  "existingTestTitle": "Existing Test Found"
+
+}
