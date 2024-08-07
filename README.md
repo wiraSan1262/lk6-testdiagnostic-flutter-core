@@ -1,0 +1,1 @@
+# lk6-testdiagnostic-flutter-core
